@@ -7,7 +7,7 @@
 🎓 KHU  
 🌱 Data/AI  
 📫 imash0525@gmail.com  
-
+<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seheeAn&layout=compact)
 
