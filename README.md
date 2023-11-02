@@ -8,12 +8,6 @@
 🌱 Data/AI  
 📫 imash0525@gmail.com  
 
-
-### Boj
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=imash0728)](https://solved.ac/imash0728)
-
-
 ### language
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seheeAn&layout=compact)
 
@@ -22,3 +16,6 @@
 ![seheeAn's GitHub stats](https://github-readme-stats.vercel.app/api?username=seheeAn&show_icons=true&theme=tokyonight)
 
 
+### Boj
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=imash0728)](https://solved.ac/imash0728)
