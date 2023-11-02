@@ -9,10 +9,11 @@
 📫 imash0525@gmail.com  
 <br>
 
+
+### status
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seheeAn&layout=compact&theme=tokyonight)
 
 
-### status
 ![seheeAn's GitHub stats](https://github-readme-stats.vercel.app/api?username=seheeAn&show_icons=true&theme=tokyonight)
 
 
