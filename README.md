@@ -8,7 +8,7 @@ Contacts📫: [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=fl
 <br>  
 <br>
 
-## Github stats
+## GitHub Stats
 ![seheeAn's GitHub stats](https://github-readme-stats.vercel.app/api?username=seheeAn&show_icons=true&theme=cobalt) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seheeAn&layout=compact&theme=cobalt) 
 <br>  
 <br>
