@@ -8,7 +8,7 @@
 
 
 [![Solved.ac
-프로필](http://imash0728.wtf/api/mini/generate_badge?boj={handle})](https://solved.ac/{handle})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=imash0728)](https://solved.ac/imash0728)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seheeAn&layout=compact)
 
