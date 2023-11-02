@@ -9,7 +9,7 @@
 📫 imash0525@gmail.com  
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seheeAn&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seheeAn&layout=compact&theme=tokyonight)
 
 
 ### status
