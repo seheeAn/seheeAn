@@ -1,4 +1,4 @@
-# Sehee's Profile
+<center># Sehee's Profile</center>
 🎓 KHU  
 🌱 Data/AI  
 📫 imash0525@gmail.com  
