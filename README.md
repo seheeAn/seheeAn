@@ -6,6 +6,10 @@
 🌱 Data/AI  
 📫 imash0525@gmail.com
 
+
+[![Solved.ac
+프로필](http://imash0728.wtf/api/mini/generate_badge?boj={handle})](https://solved.ac/{handle})
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seheeAn&layout=compact)
 
 ![seheeAn's GitHub stats](https://github-readme-stats.vercel.app/api?username=seheeAn&show_icons=true&theme=tokyonight)
