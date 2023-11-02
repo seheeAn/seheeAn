@@ -1,6 +1,6 @@
 <div align="center">
   
-# Sehee's Profile
+### Profile
 🎓 KHU  
 🌱 Data/AI  
 📫 imash0525@gmail.com  
